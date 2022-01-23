@@ -1,2 +1,2 @@
 # Studies
-Tracking my jounrney through different topics.
+Tracking my journey through different topics.
